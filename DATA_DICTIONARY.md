@@ -41,6 +41,25 @@ Layoff events or public reports where AI is cited as a contributing factor.
 
 Important: attribution quality varies. Some reports cite AI directly, some imply automation, and some reflect company narratives that may be incomplete.
 
+## AI link score
+
+A 0-100 directional estimate of how materially AI appears connected to a layoff or restructuring event.
+
+Interpretation: higher values mean the AI signal is stronger. The score is not a probability that AI directly replaced each affected worker and should not be read as causal precision.
+
+Suggested interpretation:
+
+- 90-100: direct company-stated AI, automation, or agent connection.
+- 70-89: strong AI-linked restructuring, reallocation, or AI-native org design signal.
+- 40-69: mixed evidence or analyst attribution.
+- below 40: weak signal; generally exclude from the public AI-attributed tracker.
+
+## AI tool maturity
+
+A 0-100 directional score for how widely deployed, production-ready, and workflow-relevant an AI tool appears to be.
+
+Interpretation: higher maturity indicates stronger current disruption potential, not necessarily better model quality. Maturity can rise when a tool moves from demo to enterprise deployment, ships agentic execution, expands into more geographies, or becomes embedded in a core workflow.
+
 ## Industrial robot shipments/installations
 
 Annual robot adoption figures, usually sourced from IFR or related robotics reporting.

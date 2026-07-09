@@ -8,6 +8,8 @@ Skynet Jobs is an interpretive research and visualization project, not an offici
 - Productivity gain is not the same as wage gain or employment growth.
 - Occupation-level risk can hide large variation between tasks, employers, regions, and seniority levels.
 - Public layoff attribution can be incomplete or shaped by company messaging.
+- AI-linked layoffs are not always direct AI replacement; many are reallocations, productivity resets, org flattening, or infrastructure-funding decisions.
+- A percentage-style "AI link score" is a communication device for evidence strength, not a mathematically precise causal probability.
 - Different sources define AI adoption differently.
 - Historical automation studies may not fully capture generative AI or agentic AI.
 - Survey forecasts should be separated from observed outcomes.

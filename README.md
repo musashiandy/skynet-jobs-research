@@ -37,9 +37,13 @@ CHANGELOG.md
 LIMITATIONS.md
 references/
   README.md
+  2026-07-09-ai-tool-tracker-audit.md
+  2026-07-09-enterprise-ai-layoff-sources.md
 data-notes/
   README.md
+  2026-07-09-site-update-ledger.md
 methodology/
+  ai-layoff-attribution.md
   scoring-model.md
 ```
 

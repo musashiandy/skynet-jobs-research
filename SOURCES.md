@@ -64,6 +64,45 @@ Source families to track:
 
 Caveat: productivity gains vary heavily by task, worker skill level, workflow design, and measurement period.
 
+## Company layoff and restructuring signals
+
+Used for the Skynet Jobs layoff tracker and editorial analysis when companies publicly cite AI, automation, productivity, restructuring, AI-native org design, or reallocation toward AI infrastructure.
+
+Preferred source order:
+
+1. Company filings, investor disclosures, official blogs, and executive memos.
+2. Primary reporting from Reuters, AP, Bloomberg, WSJ, The Verge, TechCrunch, Business Insider, Fast Company, and comparable publishers.
+3. Secondary summaries only when they point back to primary reporting or filings.
+
+Important: a layoff can be AI-linked without being direct AI replacement. Tracker entries should distinguish direct company-stated AI substitution from broader AI-era restructuring or analyst attribution.
+
+Current source clusters added in the July 2026 update:
+
+- Microsoft 2026 layoffs and company transformation language.
+- Meta 2026 layoffs, AI-focused transfers, AI-native org design, and later caveats about agent progress.
+- Oracle, Atlassian, Snap, Block, Cisco, Intuit, Coinbase, WiseTech Global, Wix, Angi, GM, Groupon, and GitLab AI-linked layoff/restructuring reports.
+
+## AI tools and workflow automation products
+
+Used for the AI Tool Tracker, sector notes, and role-level threat narratives.
+
+Preferred source order:
+
+1. Official product pages and deployment announcements.
+2. Customer case studies from identifiable enterprise users.
+3. Reputable reporting about production deployment, funding, adoption, or layoffs connected to tool usage.
+4. Public benchmarks only when they map to real workflows.
+
+Current tool categories requiring regular review:
+
+- Enterprise agents: Salesforce Agentforce, ServiceNow AI Agents, Sierra, Zendesk AI agents, UiPath agentic automation.
+- Coding agents: GitHub Copilot, Cursor, OpenAI Codex, Claude Code, Devin.
+- Legal agents: Harvey, CoCounsel, Legora, Spellbook.
+- Healthcare documentation: Abridge, DAX/Copilot ambient clinical documentation.
+- Finance and procurement agents: Ramp agents, Intuit/QuickBooks AI, Bloomberg Terminal AI/ASKB.
+- Autonomy and robotics: Waymo, Aurora, Gatik, Kodiak, Figure AI, Agility Digit, Amazon warehouse robotics.
+- Creative generation: Sora, Runway, Google Veo, Adobe Firefly, Midjourney, Suno, Udio, ElevenLabs.
+
 ## Source quality notes
 
 Prefer primary sources, peer-reviewed research, official statistics, and original publisher data. Secondary analysis may be useful, but it should be labeled as interpretation.
