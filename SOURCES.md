@@ -17,6 +17,18 @@ Recommended source notes to add:
 
 Caveat: BLS data is authoritative for U.S. labor statistics, but it does not directly measure AI-attributable displacement for most occupations.
 
+### O*NET
+
+Used for occupation-level task context, work activities, skills, and role descriptions.
+
+Recommended source notes to add:
+
+- O*NET Online occupation summaries
+- O*NET work activities and detailed work activities
+- O*NET skills, knowledge, and abilities where task interpretation requires more detail
+
+Caveat: O*NET task descriptions help interpret what work happens inside an occupation, but they do not directly measure generative AI exposure or displacement.
+
 ## Automation and job exposure research
 
 ### Frey and Osborne
@@ -37,6 +49,24 @@ Used for macro-level estimates around generative AI exposure, productivity, and 
 
 Caveat: high-level exposure estimates should be interpreted separately from actual displacement.
 
+### OECD AI and work research
+
+Used for task-level exposure framing, AI and labor-market context, policy-oriented interpretation, and the distinction between exposure, adoption, and outcomes.
+
+Caveat: OECD research should be treated as exposure and policy context unless a specific observed employment outcome is being cited.
+
+### Microsoft Research
+
+Used for occupation-level generative AI applicability research and task-level interpretation of where AI systems may be useful in real work.
+
+Caveat: research on applicability is not the same as proof of displacement. It should be used to interpret where AI can affect work activities, not to claim deterministic job loss.
+
+### Anthropic Economic Index
+
+Used for evidence about observed AI usage patterns across tasks and occupations, especially where people are using AI for augmentation, automation-like workflows, writing, analysis, coding, and other knowledge-work activities.
+
+Caveat: usage data reflects activity on Anthropic systems and should not be generalized to the whole labor market without qualification.
+
 ## Robotics and physical automation
 
 ### International Federation of Robotics (IFR)
@@ -52,6 +82,18 @@ Caveat: robot installation counts are useful for automation adoption trends but 
 Used for employer survey context, job transformation narratives, skills demand, and future-of-work framing.
 
 Caveat: survey-based forecasts reflect employer expectations and should be labeled separately from observed outcomes.
+
+### Microsoft Work Trend Index
+
+Used for company-produced survey and workplace trend context around AI adoption, AI agents, productivity expectations, and changing work practices.
+
+Caveat: Work Trend Index is company-produced research. Treat it as survey and market-context evidence, not an official labor statistic.
+
+### Stanford AI Index
+
+Used for broad AI ecosystem context, including investment, adoption, infrastructure, benchmarks, policy, and economy/labor-market signals.
+
+Caveat: AI Index is a high-level synthesis. Use it to contextualize trends, and cite more specific primary sources when making narrow occupation-level claims.
 
 ## AI adoption and productivity studies
 
@@ -102,6 +144,20 @@ Current tool categories requiring regular review:
 - Finance and procurement agents: Ramp agents, Intuit/QuickBooks AI, Bloomberg Terminal AI/ASKB.
 - Autonomy and robotics: Waymo, Aurora, Gatik, Kodiak, Figure AI, Agility Digit, Amazon warehouse robotics.
 - Creative generation: Sora, Runway, Google Veo, Adobe Firefly, Midjourney, Suno, Udio, ElevenLabs.
+
+## Responsible AI and safety references
+
+### OpenAI safety and platform guidance
+
+Used for general safety framing around responsible AI use, privacy boundaries, evaluation, human review, and deployment caution where relevant.
+
+Caveat: provider documentation is not independent labor-market research. Use it for tool-use and safety framing, not as evidence of employment effects.
+
+### Anthropic Claude documentation
+
+Used for prompt engineering and model-use guidance, especially where analysis discusses instruction quality, role boundaries, review practices, or safe operational use.
+
+Caveat: provider documentation should be labeled as provider guidance and not treated as independent evidence of labor-market impact.
 
 ## Source quality notes
 
