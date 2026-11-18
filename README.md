@@ -30,7 +30,7 @@ Future versions may add generated public data snapshots, nightly research notes,
 
 [Ten full AI market and industry article drafts, completed November 7, 2026](editorial/2026-11-05-ai-market-series/drafts/README.md) cover hiring, software, banking, healthcare, legal services, robotics, freelance economics, working time, and career transitions. Each has a complete narrative, inline citations, and source notes. The [original research briefs](editorial/2026-11-05-ai-market-series/README.md), source registers, and claim-check ledger preserve the evidence trail and distinguish observed outcomes from surveys, company plans, and scenarios.
 
-These are unpublished first drafts pending editorial review. They do not change website content, role-risk scores, or layoff totals.
+Article 01, [AI is spreading. Why do the jobs numbers disagree?](https://jobs.skynetproxy.com/analysis/ai-is-spreading-why-jobs-numbers-disagree), was published November 18 after a targeted source refresh. The other nine remain unpublished pending editorial review. See the [publication evidence](https://github.com/babbabooieq/skynet-jobs-research/blob/main/data-notes/2026-11-18-ai-jobs-numbers.md). No role-risk scores or workforce metrics changed.
 
 ## Repository map
 

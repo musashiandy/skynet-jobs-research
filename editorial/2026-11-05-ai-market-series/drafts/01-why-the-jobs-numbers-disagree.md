@@ -1,10 +1,12 @@
 ---
 title: "AI is spreading. Why do the jobs numbers disagree?"
 description: "A guide to reading the conflicting evidence on AI adoption, hiring, layoffs, and employment."
-status: draft
-published: false
+status: published
+published: true
+published_at: 2026-11-18
+publication_url: "https://jobs.skynetproxy.com/analysis/ai-is-spreading-why-jobs-numbers-disagree"
 drafted: 2026-11-07
-research_checked: 2026-11-07
+research_checked: 2026-11-18
 cover_image: "../images/01-why-the-jobs-numbers-disagree.webp"
 cover_alt: "Three glass prisms separate cyan light into different perspectives beside worker and industry tokens."
 cover_caption: "AI-generated conceptual illustration; not actual data or a photographed deployment."
@@ -32,7 +34,7 @@ For the person losing a position, net growth elsewhere offers limited comfort. F
 
 A June study by Ramp and Revelio Labs linked AI spending with workforce records for 21,559 U.S. firms through February 2026. Its preferred comparisons associated high-intensity adoption with employment expansion, while low-intensity estimates were not statistically significant. The firms adopting were already a selected, faster-growing group, and the design retains identification limits. This is evidence against a simple universal replacement story, not proof that buying AI creates jobs. [Kharazian, Simon, and Stevens](https://ramp.com/data/ai-jobs-impact/paper).
 
-An October BEA research spotlight offers another perspective. Higher-use state-industry groups had stronger output trajectories and generally positive, less precisely estimated employment differences. Crucially, the underlying study compares AI use measured in 2025–2026 with economic outcomes over 2016–2024. It is retrospective descriptive evidence, not a demonstration of growth following adoption. [BEA spotlight](https://apps.bea.gov/scb/spotlights/2026/1026-ai-utilization.htm) and [working-paper record](https://www.bea.gov/research/papers/2026/ai-utilization-and-economic-performance).
+An October BEA research spotlight offers another perspective. In the worker-reported measure, higher-use state-industry groups had stronger output trajectories and positive, less precisely estimated employment differences. The employer-reported measure did not recover the same output pattern. Crucially, the underlying study compares AI use measured in 2025–2026 with economic outcomes over 2016–2024. It is retrospective descriptive evidence, not a demonstration of growth following adoption. [BEA spotlight](https://apps.bea.gov/scb/spotlights/2026/1026-ai-utilization.htm) and [working-paper record](https://www.bea.gov/research/papers/2026/ai-utilization-and-economic-performance).
 
 The practical implication is about the comparison we need. If a company grows after adopting AI, we still need to know how it would have performed without adoption. Perhaps the tool helped it expand. Perhaps strong demand funded both hiring and the tool. Perhaps adoption altered the mix of workers while total headcount grew.
 
@@ -56,11 +58,26 @@ Treat adoption as the beginning of an investigation. Ask which workflow changed,
 
 For readers, five checks make a headline more useful: identify the population, the observation period, the outcome, the comparison group, and the strength of the causal claim. A forecast belongs in a different category from a measured change. A company explanation belongs in a different category from an independent estimate.
 
-The strongest current picture is an uneven one. We can investigate expansion, displacement, and changed career opportunities together. The next valuable question is where each is occurring, who bears the transition cost, and which evidence would change our assessment.
+## What employers should measure
+
+An employer evaluating an AI rollout can make these distinctions visible in its own records. Track new hires, departures, vacancies, internal moves, and contractor spending separately. Compare the work before and after a rollout, including review time, rework, service quality, and changes in demand. A smaller recruiting budget and a faster first draft are different outcomes.
+
+Ask which experience levels still have a route into the work. If an organization removes routine assignments, it needs to decide how people will acquire the judgment required for the remaining assignments. These are suggested evaluation questions, not evidence that a particular staffing model will succeed.
+
+## What to watch next
+
+- Whether subsequent payroll releases and revisions change the aggregate picture. They can update the employment backdrop without identifying AI's contribution.
+- Whether announcement reports are followed by documented separations, hiring avoidance, or internal transfers. Keep those outcomes separate.
+- Whether firm-level findings hold in broader samples and distinguish adoption from demand growth that could finance both software and hiring.
+- Whether vacancies and recruitment by occupation and experience level move differently from total company headcount.
+
+## Reading the disagreement
+
+The strongest current picture is an uneven one. We can investigate expansion, displacement, and changed career opportunities together. The next valuable question is where each is occurring, who bears the transition cost, and which evidence would change our assessment. For a worker, start with the tasks and openings relevant to your next move. For an employer, report what changed in work and staffing rather than treating an AI purchase as an employment result.
 
 ## Source notes
 
-Research checked November 7, 2026. Sources combine official statistics, employer-announcement tracking, observational research, and econometric estimates. No single source measures the complete effect of AI on employment.
+Research rechecked November 18, 2026 for publication. Sources combine official statistics, employer-announcement tracking, observational research, and econometric estimates. Source publication dates and observation windows remain separate. No single source measures the complete effect of AI on employment.
 
 - **BLS, November 6, 2026:** October household and establishment surveys; estimates are subject to revision and do not identify AI causation. Supplemental register S22.
 - **Challenger, November 5, 2026:** announced reductions and employer-cited reasons, not independently verified one-for-one replacement. S23.

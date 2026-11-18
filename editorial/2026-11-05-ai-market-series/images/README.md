@@ -1,6 +1,6 @@
 # Article cover illustrations
 
-Created November 9, 2026 using the built-in **image_gen** tool and the imagegen skill. Status: **local review; unpublished**.
+Created November 9, 2026 using the built-in **image_gen** tool and the imagegen skill. Current status: **cover 01 published with article 01 on November 18; other nine covers unpublished**.
 
 Ten distinct editorial concepts accompany the [full article drafts](../drafts/README.md). The palette follows the existing Skynet Jobs covers: charcoal/navy with cyan/teal and restrained amber. The illustrations have no article text, logos, statistical labels, or imitation data charts.
 
@@ -26,6 +26,6 @@ Ten distinct editorial concepts accompany the [full article drafts](../drafts/RE
 - [Asset manifest](asset-manifest.json) records final dimensions, byte sizes, and SHA-256 checksums.
 - Draft frontmatter supplies relative cover paths, descriptive alt text, and an explicit AI-illustration caption.
 - These are conceptual editorial illustrations, not photographs of actual people, institutions, products, or reported deployments. They are not research evidence, workflow diagrams, or medical instructions.
-- The local Vite review server reads the files directly from this directory. They are intentionally outside the website's `public/` folder and are excluded from production builds until a separate publication decision.
+- The local Vite review server reads the files directly from this directory. Cover 01 was copied byte-for-byte to the website for its [November 18 article](https://jobs.skynetproxy.com/analysis/ai-is-spreading-why-jobs-numbers-disagree); the other nine remain outside production builds pending separate publication decisions.
 
 Review at [http://localhost:8080/analysis/review](http://localhost:8080/analysis/review). Use **Refresh files** to pick up metadata changes. The local page displays covers in the article cards and above each article's text.

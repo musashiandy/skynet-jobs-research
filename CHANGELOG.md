@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-18
+
+- Published article 01, “AI is spreading. Why do the jobs numbers disagree?”, with its existing cover and a November 18 source refresh. Added employer guidance and monitoring questions; clarified the BEA measurement contrast. Recorded the owner’s publication authorization and linked the canonical evidence note.
+- Updated article/asset metadata and indexes to distinguish this release from the nine unpublished drafts. No occupational scores or workforce-event metrics changed.
+
 ## 2026-11-09
 
 - Added local website review instructions for the ten full drafts.

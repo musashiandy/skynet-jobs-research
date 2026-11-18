@@ -1,7 +1,7 @@
 {
   "created": "2026-11-09",
   "method": "Built-in image_gen tool",
-  "status": "local review; unpublished",
+  "status": "cover 01 published 2026-11-18; other nine unpublished",
   "encoding": "WebP quality 85; original generated dimensions and visual content preserved",
   "assets": [
     {
@@ -10,7 +10,9 @@
       "height": 941,
       "bytes": 117234,
       "sha256": "b4e605b53e77b4c53ce24af711b2f501eccc737761ca7f03161eb20185aca66c",
-      "generator_output": "exec-4ff15b6a-1dac-44d9-95b3-01edcc534033.png"
+      "generator_output": "exec-4ff15b6a-1dac-44d9-95b3-01edcc534033.png",
+      "published_at": "2026-11-18",
+      "publication_url": "https://jobs.skynetproxy.com/analysis/ai-is-spreading-why-jobs-numbers-disagree"
     },
     {
       "file": "02-tech-hiring-entry-level.webp",

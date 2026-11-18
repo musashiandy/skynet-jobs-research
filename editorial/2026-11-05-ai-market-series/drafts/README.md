@@ -1,16 +1,16 @@
 # Ten full article drafts
 
-Drafted and research refreshed **November 7, 2026, America/New_York**. Status: **complete first drafts; unpublished; editorial review pending**.
+Drafted and research refreshed **November 7, 2026, America/New_York**. Current status: **article 01 published November 18; nine complete drafts remain unpublished, editorial review pending**.
 
 Each article contains a complete narrative, practical implications for readers, inline source links, and source notes. Most are approximately 1,000 words including notes. The original [November 5 briefs](../README.md) remain available as the planning record.
 
 ## Read on the local website
 
-With the sibling `future-job-insights` app running in Vite development mode, open [http://localhost:8080/analysis/review](http://localhost:8080/analysis/review). All ten drafts, tables, and linked research notes are readable there. The page loads these files directly; **Refresh files** picks up edits. It is a development-only review route, excluded from production builds.
+With the sibling `future-job-insights` app running in Vite development mode, open [http://localhost:8080/analysis/review](http://localhost:8080/analysis/review). The nine unpublished drafts, tables, and linked research notes are readable there. Article 01 is available at its published URL below. The page loads these files directly; **Refresh files** picks up edits. It is a development-only review route, excluded from production builds.
 
 | Order | Full draft | Focus |
 | --- | --- | --- |
-| 1 | [AI is spreading. Why do the jobs numbers disagree?](01-why-the-jobs-numbers-disagree.md) | Aggregate employment, layoffs, adoption, and firm-level research |
+| 1 | [AI is spreading. Why do the jobs numbers disagree?](01-why-the-jobs-numbers-disagree.md) | **Published November 18:** [live article](https://jobs.skynetproxy.com/analysis/ai-is-spreading-why-jobs-numbers-disagree); aggregate employment and measurement |
 | 2 | [The tech hiring rebound has an entry-level problem](02-tech-hiring-entry-level.md) | Hiring composition and the development of experience |
 | 3 | [Banks are cutting jobs. How much of that is actually AI?](03-banking-ai-attribution.md) | Original disclosures and responsible attribution |
 | 4 | [AI promised time back. Why are some users working longer?](04-ai-and-the-longer-workday.md) | Task speed, total effort, and the distribution of gains |
@@ -32,12 +32,12 @@ The refresh adds the November 6 BLS release and November 5 Challenger report. Ar
 
 ## Cover illustrations
 
-Each draft now includes a distinct AI-generated cover, added November 9, 2026, with alt text and a conceptual-illustration caption. View them on the local review page. The [image directory](../images/README.md) contains the WebP assets, prompt set, and checksum manifest. Covers are editorial illustrations, not research evidence, and remain outside production assets.
+Each draft now includes a distinct AI-generated cover, added November 9, 2026, with alt text and a conceptual-illustration caption. View them on the local review page. The [image directory](../images/README.md) contains the WebP assets, prompt set, and checksum manifest. Covers are editorial illustrations, not research evidence. Cover 01 was copied into the website for its November 18 article release; the other nine remain outside production assets.
 
 ## Review and publication
 
-The YAML fields are local editorial metadata, not a claim about an application's CMS schema. Every article has `status: draft` and `published: false`. These files are not wired to the public website, and their presence in this repository does not publish them.
+The YAML fields are local editorial metadata, not a claim about an application's CMS schema. Article 01 now records `status: published`, `published: true`, its November 18 publication date and canonical URL. The other nine retain `status: draft` and `published: false`. These files are not wired to the public website, and their presence in this repository does not publish them.
 
-Review the articles for voice, argument, source interpretation, and any desired expansion. A named editor should record approval and refresh dates before using the site's separate publishing workflow. Reader-facing source notes accompany the prose; the audit registers can remain in this research repository.
+The project owner authorized article 01 for publication on November 18; sources were rechecked that day ([evidence](https://github.com/babbabooieq/skynet-jobs-research/blob/main/data-notes/2026-11-18-ai-jobs-numbers.md)). Review the remaining articles for voice, argument, source interpretation, and any desired expansion. A named editor should record approval and refresh dates before using the site's separate publishing workflow. Reader-facing source notes accompany the prose; the audit registers can remain in this research repository.
 
 The articles contain no invented interviews or reported visits. Examples are illustrative, and the numerical freelance table is explicitly hypothetical. No author biography, byline, original fieldwork, or publication date has been invented.

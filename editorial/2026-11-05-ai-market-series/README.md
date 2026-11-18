@@ -1,6 +1,6 @@
 # Ten stories about AI and the labor market
 
-Original brief research cutoff and access date: **November 5, 2026, America/New_York**. Ten full article drafts were completed and research refreshed **November 7, 2026**. Status: **unpublished; editorial review pending**.
+Original brief research cutoff and access date: **November 5, 2026, America/New_York**. Ten full article drafts were completed and research refreshed **November 7, 2026**. Current status: **article 01 published November 18; nine articles unpublished, editorial review pending**.
 
 **[Read the ten full article drafts](drafts/README.md).** Each has a complete narrative, inline citations, and source notes. The files below preserve the original briefs and outlines.
 
@@ -38,6 +38,10 @@ Observed patterns, survey responses, quasi-experimental estimates, company expec
 The July/August series already introduced task compression, verification, career ladders, spreadsheet work, infrastructure investment, and AI-adjacent work. This series advances that coverage through specific 2026 evidence and industry economics. Article 2 tests the earlier career-ladder argument against hiring and payroll indicators. Article 5 examines measurement rather than repeating the verification argument. Article 10 turns the earlier discussion of new work into a practical examination of transition barriers.
 
 The public site's JavaScript shell did not expose readable article text during this research session. Existing-coverage comparisons use the repository's [published-article source note](../../data-notes/2026-07-11-analysis-article-sources.md), not an assumed full crawl of the live site.
+
+## Publication status
+
+Article 01 was authorized for publication by the project owner on November 18, 2026, with sources rechecked that day. [Read the published article](https://jobs.skynetproxy.com/analysis/ai-is-spreading-why-jobs-numbers-disagree) and its [evidence record](https://github.com/babbabooieq/skynet-jobs-research/blob/main/data-notes/2026-11-18-ai-jobs-numbers.md). The original briefs retain their historical cutoff; the other nine full drafts remain unpublished.
 
 ## Before publication
 
