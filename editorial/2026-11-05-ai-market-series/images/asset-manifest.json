@@ -1,0 +1,88 @@
+{
+  "created": "2026-11-09",
+  "method": "Built-in image_gen tool",
+  "status": "local review; unpublished",
+  "encoding": "WebP quality 85; original generated dimensions and visual content preserved",
+  "assets": [
+    {
+      "file": "01-why-the-jobs-numbers-disagree.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 117234,
+      "sha256": "b4e605b53e77b4c53ce24af711b2f501eccc737761ca7f03161eb20185aca66c",
+      "generator_output": "exec-4ff15b6a-1dac-44d9-95b3-01edcc534033.png"
+    },
+    {
+      "file": "02-tech-hiring-entry-level.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 147782,
+      "sha256": "c5b2515abc4c1bef51afa2c6bec8de978e1d11dbe26df7a7c57f377a84bb2900",
+      "generator_output": "exec-e1a6eccd-0bc0-432e-ae00-1a571d7ea169.png"
+    },
+    {
+      "file": "03-banking-ai-attribution.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 184658,
+      "sha256": "d0712026f4d95c34a4cdbb432a9ca344cffc6bfddc8be2a4f1c042bda18d2c8f",
+      "generator_output": "exec-198d5c29-b336-4a30-bb09-8b7543454394.png"
+    },
+    {
+      "file": "04-ai-and-the-longer-workday.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 131944,
+      "sha256": "7f002120c3a40ec8f3d8d01a7897b7b32ca61c97035086f511f72455cfde597e",
+      "generator_output": "exec-6c43405c-3142-44fa-adb8-4259805cb47f.png"
+    },
+    {
+      "file": "05-coding-productivity-reset.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 129012,
+      "sha256": "47cb0b1eb4d8cee539fa3b8488701d9d93a7cecb2284c925a71e268a0d316e6e",
+      "generator_output": "exec-c0f13260-ed0a-4220-ab37-b4e005bac2f1.png"
+    },
+    {
+      "file": "06-healthcare-paperwork.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 124770,
+      "sha256": "05fcd102938b75d8a833a40de2e4839425d876fd2a0eab29f809aad763954c85",
+      "generator_output": "exec-9a67488b-0355-44ac-90be-f427e16c75b3.png"
+    },
+    {
+      "file": "07-legal-ai-economics.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 121552,
+      "sha256": "2e0fb2e0129c0a351dd6e21a526383d7cc3dc9de8ef15073b4b49c1f3246198d",
+      "generator_output": "exec-36578529-a14b-4332-9e89-53072f5be912.png"
+    },
+    {
+      "file": "08-robots-beyond-the-demo.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 153078,
+      "sha256": "7d675346a0ce626bed2849dcfaef37dc3d9e91d8e2d305e6a4ac4c449e58fd0e",
+      "generator_output": "exec-b46ee38a-8bc8-43f0-9ffc-63501b6eef93.png"
+    },
+    {
+      "file": "09-freelance-volume-and-value.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 197252,
+      "sha256": "d60dae86f20aec46816243819c129c36428178ad78d51bd4aae10340f831b085",
+      "generator_output": "exec-f2a7f1fe-56f6-466e-8701-bfd962ae2f1d.png"
+    },
+    {
+      "file": "10-beyond-just-reskill.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 228108,
+      "sha256": "a5c86de4514d4d61edbd2af8edac92ce480c5c623ae631b94a7e9dd7230d82e9",
+      "generator_output": "exec-550ef109-3294-44fe-8e80-2f8722625120.png"
+    }
+  ]
+}

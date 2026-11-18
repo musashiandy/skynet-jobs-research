@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-11-09
+
+- Added local website review instructions for the ten full drafts.
+- Added ten coordinated, AI-generated WebP cover illustrations with alt text, disclosure captions, full prompts, and an asset checksum manifest.
+- Connected covers to the sibling app's development-only article cards and reader. Assets remain in the research repo and are excluded from website production builds. No articles were published.
+
+## 2026-11-07
+
+- Completed ten full analytical article drafts with inline source links, source notes, and explicit unpublished metadata; preserved the original briefs.
+- Refreshed research with the November 6 BLS employment release and November 5 Challenger report, keeping payroll outcomes separate from announced staffing plans.
+- Added a source supplement and editorial review record, including replacement of a freelance spending preprint after a timing inconsistency was found in its methods discussion.
+- Added illustrative tables for project economics and career-transition planning. Updated navigation and the claim-check ledger. No articles were published and no site metrics or datasets changed.
+
+## 2026-11-05
+
+- Added ten unpublished, researched article briefs on the AI labor market and industry changes, with opening passages, outlines, reader takeaways, reporting questions, and proposed visuals.
+- Added a 21-source register with publication dates, observation windows, evidence types, access limitations, and links to original research and first-party disclosures.
+- Added a claim-check ledger addressing attribution, overlapping denominators, surveys versus outcomes, prior-period data, and forecasts.
+- Linked the editorial packet from the repository README and source catalog. No website articles were published and no role-risk scores, layoff counts, or datasets were changed.
+
 ## 2026-07-11
 
 - Added public reference notes for six new Skynet Jobs analysis articles on task compression, verification, career ladders, spreadsheet-heavy workflows, AI infrastructure spending, and new AI-adjacent work.

@@ -2,6 +2,12 @@
 
 This file tracks public source families used or planned for Skynet Jobs research. Entries should be expanded over time with specific documents, URLs, publication dates, access dates, and notes.
 
+## November 2026 editorial research packet
+
+The [November 5 source register](references/2026-11-05-ai-market-series-sources.md) documents 21 sources supporting [ten unpublished article briefs](editorial/2026-11-05-ai-market-series/README.md). It adds specific BEA and Federal Reserve research, Stanford/ADP indicators, Indeed vacancies, Ramp–Revelio spending research, METR productivity studies, healthcare trials, legal-sector reports, a Barclays disclosure, IFR robotics statistics, Upwork marketplace research, ActivTrak work-pattern findings, and McKinsey transition scenarios.
+
+The register records publication dates separately from observation periods, identifies abstract-only access and commercial interests, and links a claim-check ledger. The [November 7 supplement](references/2026-11-07-ai-market-series-draft-refresh.md) adds sources S22–S24 and records a source replacement for the [ten completed full drafts](editorial/2026-11-05-ai-market-series/drafts/README.md). Inclusion is an editorial research update, not a change to the site's scoring model or layoff tracker.
+
 ## Labor and employment data
 
 ### U.S. Bureau of Labor Statistics (BLS)

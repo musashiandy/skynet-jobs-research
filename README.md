@@ -26,6 +26,12 @@ Skynet Jobs is currently a static public site backed by curated, versioned resea
 
 Future versions may add generated public data snapshots, nightly research notes, or machine-readable source manifests after review.
 
+## Editorial research
+
+[Ten full AI market and industry article drafts, completed November 7, 2026](editorial/2026-11-05-ai-market-series/drafts/README.md) cover hiring, software, banking, healthcare, legal services, robotics, freelance economics, working time, and career transitions. Each has a complete narrative, inline citations, and source notes. The [original research briefs](editorial/2026-11-05-ai-market-series/README.md), source registers, and claim-check ledger preserve the evidence trail and distinguish observed outcomes from surveys, company plans, and scenarios.
+
+These are unpublished first drafts pending editorial review. They do not change website content, role-risk scores, or layoff totals.
+
 ## Repository map
 
 ```text
@@ -45,6 +51,15 @@ data-notes/
 methodology/
   ai-layoff-attribution.md
   scoring-model.md
+editorial/
+  2026-11-05-ai-market-series/
+    README.md
+    claim-check-ledger.md
+    draft-review-notes.md
+    01-...md through 10-...md
+    drafts/
+      README.md
+      01-...md through 10-...md
 ```
 
 ## Citation style
