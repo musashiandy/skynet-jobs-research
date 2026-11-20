@@ -1,6 +1,6 @@
 # Ten stories about AI and the labor market
 
-Original brief research cutoff and access date: **November 5, 2026, America/New_York**. Ten full article drafts were completed and research refreshed **November 7, 2026**. Current status: **article 01 published November 18; nine articles unpublished, editorial review pending**.
+Original brief research cutoff and access date: **November 5, 2026, America/New_York**. Ten full article drafts were completed and research refreshed **November 7, 2026**. Current status: **article 01 published November 18; articles 02–03 released November 20 with November 19/20 article dates; seven articles unpublished, editorial review pending**.
 
 **[Read the ten full article drafts](drafts/README.md).** Each has a complete narrative, inline citations, and source notes. The files below preserve the original briefs and outlines.
 
@@ -41,7 +41,7 @@ The public site's JavaScript shell did not expose readable article text during t
 
 ## Publication status
 
-Article 01 was authorized for publication by the project owner on November 18, 2026, with sources rechecked that day. [Read the published article](https://jobs.skynetproxy.com/analysis/ai-is-spreading-why-jobs-numbers-disagree) and its [evidence record](https://github.com/babbabooieq/skynet-jobs-research/blob/main/data-notes/2026-11-18-ai-jobs-numbers.md). The original briefs retain their historical cutoff; the other nine full drafts remain unpublished.
+Article 01 was authorized for publication by the project owner on November 18, 2026, with sources rechecked that day. [Read the published article](https://jobs.skynetproxy.com/analysis/ai-is-spreading-why-jobs-numbers-disagree) and its [evidence record](https://github.com/babbabooieq/skynet-jobs-research/blob/main/data-notes/2026-11-18-ai-jobs-numbers.md). The original briefs retain their historical cutoff; articles 02 and 03 are authorized for release November 20 with the requested November 19/20 article dates, and the other seven full drafts remain unpublished. See the [new publication record](../../data-notes/2026-11-20-hiring-and-banking-publication.md) for source refresh and deployment status.
 
 ## Before publication
 

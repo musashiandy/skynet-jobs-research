@@ -1,10 +1,13 @@
 ---
 title: "The tech hiring rebound has an entry-level problem"
 description: "Why a recovery in software vacancies can still leave new workers struggling to enter the industry."
-status: draft
-published: false
+status: published
+published: true
+published_at: 2026-11-19
+released_at: 2026-11-20
+publication_url: "https://jobs.skynetproxy.com/analysis/tech-hiring-rebound-entry-level-problem"
 drafted: 2026-11-07
-research_checked: 2026-11-07
+research_checked: 2026-11-20
 cover_image: "../images/02-tech-hiring-entry-level.webp"
 cover_alt: "A cyan-lit staircase has a gap at its first steps, with people waiting beside an amber scaffold."
 cover_caption: "AI-generated conceptual illustration; not actual data or a photographed deployment."
@@ -30,7 +33,7 @@ Someone choosing a career needs to inspect the actual role, not just the employe
 
 ## The payroll evidence adds a different view
 
-Stanford's Canaries Dashboard, built with ADP Research, tracks employment in a balanced sample of ADP client firms. It shows weaker trajectories for younger workers in highly exposed occupations, including software development, than for older workers in those roles. Exposure scores describe potential susceptibility to AI-related change; they do not verify each employer's adoption. [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/).
+Stanford's Canaries Dashboard, built with ADP Research, tracks employment in a balanced sample of ADP client firms. The page, displaying an October 21, 2026 update when rechecked, describes weaker trajectories for younger workers in highly exposed occupations, including software development, than for older workers in those roles. Exposure scores describe potential susceptibility to AI-related change; they do not verify each employer's adoption. [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/).
 
 Age and experience also differ. A 24-year-old with several years of relevant work and a 40-year-old changing careers do not fit neatly into “junior” and “senior” categories based on birth date. The dashboard helps identify a pattern. It cannot describe every beginner's prospects.
 
@@ -64,12 +67,16 @@ When evaluating a listing, inspect its supervision and learning arrangements as 
 
 For employers, the corresponding question is whether the role genuinely permits learning. A team that wants experienced judgment needs a way to develop it. A recovery that excludes that investment may improve today's vacancy figures while leaving tomorrow's talent pipeline weaker.
 
+## What to watch next
+
+Watch whether subsequent posting gains broaden beyond senior roles, whether employers report actual junior hires rather than open requisitions, and whether payroll patterns change across age groups. Employer evidence on paid apprenticeships, supervision, and progression would help show whether the entry route itself is improving. Those are monitoring questions, not forecasts of an individual applicant’s outcome.
+
 ## Source notes
 
-Research checked November 7, 2026. These sources do not establish a single causal explanation for entry-level hiring conditions.
+Research rechecked November 20, 2026. Released November 20, 2026; the displayed article date is 2026-11-19, as requested by the owner. These sources do not establish a single causal explanation for entry-level hiring conditions.
 
 - **Indeed, July 8, 2026:** platform postings; the seniority result concerns the increase between May 2025 and May 2026. S06.
-- **Stanford/ADP, living dashboard:** balanced client-firm payroll sample, age bands, and modeled exposure; no new numerical endpoint is asserted here. S04.
+- **Stanford/ADP, living dashboard, displaying an October 21 update when rechecked:** balanced client-firm payroll sample, age bands, and modeled exposure; no new numerical endpoint is asserted here. S04.
 - **Stanford SIEPR, July 2026:** research synthesis and alternative explanations. S05.
 - **Challenger, November 5, 2026:** planned hiring classified by employer sector; seasonal roles illustrate a category pitfall. S23.
 

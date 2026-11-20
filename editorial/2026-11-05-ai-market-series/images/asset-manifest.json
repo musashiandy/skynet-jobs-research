@@ -1,7 +1,7 @@
 {
   "created": "2026-11-09",
   "method": "Built-in image_gen tool",
-  "status": "cover 01 published 2026-11-18; other nine unpublished",
+  "status": "cover 01 published 2026-11-18; covers 02–03 released 2026-11-20; seven unpublished",
   "encoding": "WebP quality 85; original generated dimensions and visual content preserved",
   "assets": [
     {
@@ -20,7 +20,10 @@
       "height": 941,
       "bytes": 147782,
       "sha256": "c5b2515abc4c1bef51afa2c6bec8de978e1d11dbe26df7a7c57f377a84bb2900",
-      "generator_output": "exec-e1a6eccd-0bc0-432e-ae00-1a571d7ea169.png"
+      "generator_output": "exec-e1a6eccd-0bc0-432e-ae00-1a571d7ea169.png",
+      "published_at": "2026-11-19",
+      "released_at": "2026-11-20",
+      "publication_url": "https://jobs.skynetproxy.com/analysis/tech-hiring-rebound-entry-level-problem"
     },
     {
       "file": "03-banking-ai-attribution.webp",
@@ -28,7 +31,10 @@
       "height": 941,
       "bytes": 184658,
       "sha256": "d0712026f4d95c34a4cdbb432a9ca344cffc6bfddc8be2a4f1c042bda18d2c8f",
-      "generator_output": "exec-198d5c29-b336-4a30-bb09-8b7543454394.png"
+      "generator_output": "exec-198d5c29-b336-4a30-bb09-8b7543454394.png",
+      "published_at": "2026-11-20",
+      "released_at": "2026-11-20",
+      "publication_url": "https://jobs.skynetproxy.com/analysis/banks-cutting-jobs-how-much-is-ai"
     },
     {
       "file": "04-ai-and-the-longer-workday.webp",

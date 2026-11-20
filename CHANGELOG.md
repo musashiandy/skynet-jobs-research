@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-20
+
+- Prepared the owner-authorized release of articles 02 and 03, dated November 19 and November 20 respectively, with both actually released November 20. Rechecked primary sources, preserved causal and counting limits, and reused the approved conceptual covers.
+- Added a dated evidence/publication record and aligned draft/cover indexes. Seven drafts remain unpublished. No workforce metrics or exposure scores changed. Deployment verification is recorded separately in the publication record.
+
 ## 2026-11-18
 
 - Published article 01, “AI is spreading. Why do the jobs numbers disagree?”, with its existing cover and a November 18 source refresh. Added employer guidance and monitoring questions; clarified the BEA measurement contrast. Recorded the owner’s publication authorization and linked the canonical evidence note.
