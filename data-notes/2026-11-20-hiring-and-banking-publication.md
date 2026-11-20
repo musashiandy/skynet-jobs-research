@@ -33,4 +33,20 @@ Barclays slide 10 was checked as extracted text and as a rendered PDF page, incl
 
 ## Deployment status
 
-Source and evidence are prepared for the authorized release. A research-repository push is not proof of live publication. The deployment workflow and canonical HTTPS pages must be verified after the application revision is pushed; append the actual receipt here.
+**Published and verified live November 20, 2026.** The production deployment succeeded for application revision `8cd88a5c205a3369a6428138dbe1e20454176ada`, completing at 20:30:58 UTC. The prerequisite evidence revision `abb5459` was pushed first. Direct HTTPS verification completed at 2026-11-20T20:31:33.420390+00:00.
+
+
+### Publication verification
+
+- Local validation: ESLint passed with zero errors and seven existing React Refresh warnings; all 103 tests across 14 files passed; the production build prerendered 67 routes. GitHub Actions also passed its lint, test, build, upload and cache-invalidation steps.
+- Each canonical article returned HTTP 200. All final source paragraphs and headings, the requested displayed date, matching Article JSON-LD date, canonical URL, social image metadata and indexing directive were checked. Both entry bundles/stylesheets loaded.
+- Both live covers returned HTTP 200 and matched the approved WebP files byte-for-byte, with the SHA-256 checksums above.
+- The analysis listing, sitemap and both AI discovery guides returned HTTP 200 and included both article routes. The previously released measurement article also remained available.
+- The workstation resolver could not resolve the custom host. Public DNS-over-HTTPS confirmed its CDN alias; verification used the canonical HTTPS URL, original Host header and TLS SNI with normal certificate validation through that target. No certificate bypass was used.
+
+| Canonical route | HTTP | Article date | Actual release |
+| --- | --- | --- | --- |
+| `/analysis/tech-hiring-rebound-entry-level-problem` | 200 | 2026-11-19 | 2026-11-20 |
+| `/analysis/banks-cutting-jobs-how-much-is-ai` | 200 | 2026-11-20 | 2026-11-20 |
+
+Publication is complete. The other seven drafts remain unpublished; no social messages were sent.
